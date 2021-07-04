@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my web portfolio.
+As soon as I finish that, I'll complete this README with more info 😉
+
 <!--
 **ClaudioKamoda/ClaudioKamoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
