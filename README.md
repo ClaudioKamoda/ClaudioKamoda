@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my web portfolio.
-As soon as I finish that, I'll complete this README with more info 😉
+- 🌱 I’m a junior front-end web developer.
+I love to transform designs in real front-end software 😉
+
+- 💻 Currently searching for a first job to apply knowledge and gain experience.
+Feel free to check out my portfolio: "claudiokamoda.github.io/Portfolio/"
 
 <!--
 **ClaudioKamoda/ClaudioKamoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
