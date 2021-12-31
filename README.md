@@ -7,7 +7,7 @@
 
 - 🎮 I also like to gamedev on free time.
 
-Feel free to check out my portfolio: [Claudio's Portfolio](claudiokamoda.github.io/Portfolio/)
+Feel free to check out my portfolio: [Claudio's Portfolio](https://claudiokamoda.github.io/Portfolio/)
 
 - Technologies I've used:
 
