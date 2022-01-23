@@ -1,5 +1,5 @@
 ### Hi there, I'm Claudio. 👋
-### I’m a self-made junior front-end web developer.
+### I’m a self-made junior front-end Vue.Js web developer.
 
 - 😉 I love to transform beatiful designs in real front-end software.
 
