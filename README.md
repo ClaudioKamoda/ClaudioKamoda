@@ -5,6 +5,8 @@
 
 - 💻 Currently searching for a first job to apply knowledge and gain experience.
 
+- ⚡ I love to learn new stuff. I always want to get out of my bubble.
+
 - 🎮 I also like to gamedev on free time.
 
 Feel free to check out my portfolio: [Claudio's Portfolio](https://claudiokamoda.github.io/Portfolio/)
